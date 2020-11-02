@@ -1,12 +1,10 @@
 # Mantıksal İfadeler
 <html>
 <head>
-<style>
-</style>
 </head>
 <body>
-<h1> Kadir Bülbül</h1>
-<h2> Kadir </h2>
+<h1> Mantıksal İfadeler (ve veya ,and or) </h1>
+
 </body>
 </html>
 
